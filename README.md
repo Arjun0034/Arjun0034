@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="center">🔭 An aspiring Game developer with an experience in Unity<br>🌱 Currently working on some personal projects on Unity<br>💬 Find my Resume on : Resume<br>👾 Find my games on : Itch<br>🌐 Check out my Online Portfolio:  Portfolio<br>👨‍💼My LinkedIn profile: LinkedIn</p>
+<p align="center">🔭 An aspiring Game developer with an experience in Unity<br>🌱 Currently working on some personal projects on Unity<br>💬 Find my Resume on : [Resume](https://drive.google.com/file/d/1YaIv09LTuAglsGP_bwNxPshxGzBk6For/view?usp=drive_link)<br>👾 Find my games on : [Itch](https://arjun001.itch.io/)<br>🌐 Check out my Online Portfolio: [ Portfolio](https://ashura421129.wixsite.com/arjunaswal-portfolio)<br>👨‍💼My LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/arjun-aswal-2aaa10264/)</p>
 
 ###
 
