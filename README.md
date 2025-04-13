@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=800&pause=1000&color=2FABFB&background=01000000&center=true&vCenter=true&width=435&lines=Hi%2C+I+Am+Arjun+%F0%9F%98%81" alt="Typing SVG" /></a>
+</p>
+
 <h4 align="center">ABOUT ME</h4>
 
 ###
