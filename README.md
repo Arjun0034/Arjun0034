@@ -1,10 +1,10 @@
-<h4 align="left">ABOUT ME</h4>
+<h4 align="center">ABOUT ME</h4>
 
 ###
 
 <br clear="both">
 
-<p align="left">🔭 An aspiring Game developer with an experience in Unity<br>🌱 Currently working on some personal projects on Unity<br>💬 Find my Resume on : Resume<br>👾 Find my games on : Itch<br>🌐 Check out my Online Portfolio:  Portfolio<br>👨‍💼My LinkedIn profile: LinkedIn</p>
+<p align="center">🔭 An aspiring Game developer with an experience in Unity<br>🌱 Currently working on some personal projects on Unity<br>💬 Find my Resume on : Resume<br>👾 Find my games on : Itch<br>🌐 Check out my Online Portfolio:  Portfolio<br>👨‍💼My LinkedIn profile: LinkedIn</p>
 
 ###
 
@@ -15,8 +15,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjun0034&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arjun0034&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjun0034&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arjun0034&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
