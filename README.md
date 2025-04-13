@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">🔭 An aspiring Game developer with an experience in Unity<br>🌱 Currently working on some personal projects in Unity<br>💬 Find my Resume on : [Resume](https://drive.google.com/file/d/1YaIv09LTuAglsGP_bwNxPshxGzBk6For/view?usp=sharing)<br>👾 Find my games on : [Itch.io](https://arjun001.itch.io/)<br>🌐 Check out my Online Portfolio: [Portfolio](https://ashura421129.wixsite.com/arjunaswal-portfolio)<br>👨‍💼My LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/arjun-aswal-2aaa10264/)</p>
+<p align="left">🔭 An aspiring Game developer with an experience in Unity<br>🌱 Currently working on some personal projects on Unity<br>💬 Find my Resume on : Resume<br>👾 Find my games on : Itch<br>🌐 Check out my Online Portfolio:  Portfolio<br>👨‍💼My LinkedIn profile: LinkedIn</p>
 
 ###
 
@@ -69,5 +69,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arjun0034/Arjun0034/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arjun0034/Arjun0034/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Arjun0034&theme=dark" alt="Layout with last medium posts"  />
+</div>
 
 ###
