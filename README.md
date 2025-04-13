@@ -8,10 +8,14 @@
 
 <br clear="both">
 
-<p align="center">💬 Find my Resume on: <a href="https://drive.google.com/file/d/1YaIv09LTuAglsGP_bwNxPshxGzBk6For/view?usp=drive_link" target="_blank">Resume</a></p>
-<p align="center">👾 Find my games on: <a href="https://arjun001.itch.io/" target="_blank">Itch</a></p>
-<p align="center">🌐 Check out my Online Portfolio: <a href="https://ashura421129.wixsite.com/arjunaswal-portfolio" target="_blank">Portfolio</a></p>
-<p align="center">👨‍💼 My LinkedIn profile: <a href="https://www.linkedin.com/in/arjun-aswal-2aaa10264/" target="_blank">LinkedIn</a></p>
+<p align="center">
+  🔭 An aspiring Game developer with an experience in Unity<br>
+  🌱 Currently working on some personal projects on Unity<br>
+  💬 Find my Resume on : <a href="https://drive.google.com/file/d/1YaIv09LTuAglsGP_bwNxPshxGzBk6For/view?usp=drive_link" target="_blank">Resume</a><br>
+  👾 Find my games on : <a href="https://arjun001.itch.io/" target="_blank">Itch</a><br>
+  🌐 Check out my Online Portfolio: <a href="https://ashura421129.wixsite.com/arjunaswal-portfolio" target="_blank">Portfolio</a><br>
+  👨‍💼 My LinkedIn profile: <a href="https://www.linkedin.com/in/arjun-aswal-2aaa10264/" target="_blank">LinkedIn</a>
+</p>
 ###
 
 <div align="center">
